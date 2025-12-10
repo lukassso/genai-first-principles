@@ -8,7 +8,7 @@ llama-index-llms-openai
 llama-index-llms-anthropic
 openai
 anthropic
-google-genai
+google-generativeai
 
 # UI & PDF Handling 
 gradio
